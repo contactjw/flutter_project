@@ -1,9 +1,3 @@
-![alt text](images/homepage.png)
-
-![alt text](images/secondarypage.png)
-
-![alt text](images/profilepage.png)
-
 # flutter_project
 
 A new Flutter project to practice using core features.
