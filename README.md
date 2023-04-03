@@ -1,6 +1,8 @@
-![alt text](./src/imgs/Screen%20Shot%202022-07-26%20at%2011.57.10%20AM.png)
+![alt text](images/homepage.png)
 
-![alt text](./src/imgs/Screen%20Shot%202022-07-26%20at%2011.57.19%20AM.png)
+![alt text](images/secondarypage.png)
+
+![alt text](images/profilepage.png)
 
 # flutter_project
 
