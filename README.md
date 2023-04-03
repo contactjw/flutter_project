@@ -6,7 +6,19 @@
 
 # flutter_project
 
-A new Flutter project.
+A new Flutter project to practice using core features.
+
+## Home Page
+
+![alt text](images/homepage.png)
+
+## Click on Learn Flutter
+
+![alt text](images/secondarypage.png)
+
+## Profile Page
+
+![alt text](images/profilepage.png)
 
 ## Getting Started
 
